@@ -5,7 +5,7 @@
 ---
 
 ## Harvard_(UTS) Annotated.ens ##
-It is modifid from Harvard_(UTS).ens, where **Research Notes** are added to the end.
+It is modified from Harvard_(UTS).ens, where **Research Notes** are added to the end.
 
 ## BibTeX Export - Remove URL.ens ##
 It is modified from BibTeX Export.ens, where **URLs** is removed to prevent URLs appearing in the **Latex** reference list.
