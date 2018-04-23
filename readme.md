@@ -12,10 +12,10 @@ It is modified from BibTeX Export.ens, where **URLs** is removed to prevent URLs
     
 ## BibTeX Export RN Number only-altered.ens ##
 It is modified from BibTeX Export.ens, where everything except **RN+Number** is removed to falicitate cite in **Latex**.
-    To use it:
-     1. select it as output style;
-     2. right click the reference -> select **Copy Formatted**; 
-     3. paste at some sites.
+## To use it:
+ 1. select it as output style;
+ 2. right click the reference -> select **Copy Formatted**; 
+ 3. paste at some sites.
 
     
 --------------
